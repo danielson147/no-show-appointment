@@ -1,4 +1,4 @@
-# no-show-appointment
+# no-show-appointments
 This dataset has information for 110,527 medical appointments in Brazil. It has 14 columns which are as follows:
 
 
